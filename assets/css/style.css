@@ -482,6 +482,7 @@ header .navbar ul li a:hover {
   grid-template-columns: repeat(6, 1fr);
   flex-wrap: wrap;
   gap: 1.8rem;
+  width: 50px;
 }
 .skills .container .bar {
   margin-bottom: 15px;
