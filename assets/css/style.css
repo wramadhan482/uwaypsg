@@ -459,7 +459,7 @@ header .navbar ul li a:hover {
 
 /* skills section starts */
 .skills {
-  min-height: 0vh;
+  min-height: 50vh;
   min-width: 0vh;
   background: linear-gradient(to bottom, #57059e, #4a00e0);
 }
@@ -474,7 +474,7 @@ header .navbar ul li a:hover {
   color: #fff;
   border-radius: 1rem;
   padding: 2rem;
-  width: 90%;
+  min-width: 10vh;
   margin: auto;
   margin-top: 2rem;
 }
@@ -527,7 +527,7 @@ header .navbar ul li a:hover {
   }
   .skills .container {
     margin-top: 5px;
-    min-width: 0vh;
+    width: 100%;
   }
 }
 /* skills media queries ends*/
