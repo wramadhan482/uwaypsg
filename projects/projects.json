@@ -2,17 +2,18 @@
   {
     "name": "Instagram MERN",
     "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
-    "image": "./assets/images/project/instagrammern.png",
+    "image": "instagrammern.png",
     "category": "mern",
     "links": {
       "view": "https://instagramernstack.herokuapp.com/",
       "code": "https://github.com/jigar-sable/instagram-mern"
     }
   },
+
   {
     "name": "Indian Temples",
     "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
-    "image": "templeweb.png",
+    "image": "templeweb.PNG",
     "category": "basicweb",
     "links": {
       "view": "#",
